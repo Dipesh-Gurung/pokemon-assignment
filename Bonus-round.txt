@@ -1,0 +1,4 @@
+When you search for Bulbasaur it will show.
+There is action button called collect when you enter collect then it will get collected.
+I have not included the login function as it may require remote access but for that it is not possible right now.
+due to local database which can be only accessed locally other wise it would have been possible to provide login feature.
