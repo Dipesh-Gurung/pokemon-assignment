@@ -33,13 +33,18 @@
         </tr>
       </thead>
       <tbody>
-
-        <!-- Write your code here -->
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Bulbasaur"></td>
+          <td>Bulbasaur</td>
+          <td>Seed Pokémon</td>
+          <td>Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.</td>
+          <td>6.9 kg</td>
+          <td>0.7 m</td>
+          <td><button class="btn btn-success">Catch</button></td>
+        </tr>
       </tbody>
     </table>
-
   </div>
-  <!-- DNT MAKE ANY CHANGES ON THE CODE BELOW -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
   </script>
